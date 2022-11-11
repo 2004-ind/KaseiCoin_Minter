@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/78903233/201431992-aa9f21e7-1b9c-4ba9-
 
 
 
-https://user-images.githubusercontent.com/78903233/201431255-d21fdca2-48ca-4cd3-902f-bd6e851f78fd.mov
+
 
 
 ### Deployed Contract Demo
@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/78903233/201431255-d21fdca2-48ca-4cd3-
 
 
 
-https://user-images.githubusercontent.com/78903233/201431185-2d666c77-1abc-40f6-bed8-4a49c3264407.mov
+
 
 
 ## Evaluation Evidence
@@ -97,6 +97,7 @@ https://user-images.githubusercontent.com/78903233/201431185-2d666c77-1abc-40f6-
 
 
 https://user-images.githubusercontent.com/78903233/201431006-3cdbe7f1-e606-44b4-ad12-d43a7215791e.mov
+
 
 
 
