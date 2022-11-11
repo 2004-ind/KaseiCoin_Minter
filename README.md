@@ -64,9 +64,13 @@ This project leverages on Solidity version 0.5.5 with the following modules and 
 
 ![](Evaluation_Evidence/compiled_kaseicoin.png)
 
+<img width="2048" alt="compiled_kaseicoin" src="https://user-images.githubusercontent.com/78903233/201412099-cd19480e-3944-4fd4-8d7f-2fb305e0ea3a.png">
+
 ### Compiled KaseiCoin_Crowdsale contract
 
 ![](Evaluation_Evidence/compiled_kaseicoin_crowdsale.png)
+
+<img width="2048" alt="compiled_kaseicoin_crowdsale" src="https://user-images.githubusercontent.com/78903233/201412160-9308674f-b791-4977-9f00-4e9f6340e32e.png">
 
 ### Compiled KaseiCoin_Crowdsale_Deployer contract
 
@@ -75,6 +79,8 @@ This project leverages on Solidity version 0.5.5 with the following modules and 
 ### Functionality Testing Demo
 
 [](Evaluation_Evidence/Demo.mov)
+
+
 
 ## Contributers
 
