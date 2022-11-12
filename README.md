@@ -91,6 +91,16 @@ https://user-images.githubusercontent.com/78903233/201475006-5dc7860d-e283-40ad-
 
 https://user-images.githubusercontent.com/78903233/201475018-5008ebf4-87f4-4dbe-aea2-3291577fdb09.mov
 
+## Enhanced Version With Added Functionality
+
+The Enhanced version of the contract is having three additional functionality:
+1. CappedCrowdsale: This contract will allow to cap the total amount of ether that may be raised during your crowdsale.
+2. TimedCrowdsale: This contract will allow to set a time limit for your crowdsale by adding an opening time and a closing time.
+3. RefundablePostDeliveryCrowdsale: Every time you launch a crowdsale, you set a goal amount of ether to raise. If the goal is not reached, it is common practice to refund your investors. This contract adds this capability to a crowdsale.
+
+![](Evaluation_Evidence/KC_Enhanced.png)
+
+![](Evaluation_Evidence/KC_Crowdsale_Enhanced.png)
 
 
 
