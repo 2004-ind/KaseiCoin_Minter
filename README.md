@@ -52,25 +52,15 @@ This project leverages on Solidity version 0.5.5 with the following modules and 
 
 [](Evaluation_Evidence/Deployment_process.mov)
 
-
-
-
 https://user-images.githubusercontent.com/78903233/201431992-aa9f21e7-1b9c-4ba9-9dcc-4ebf037d8835.mov
-
-
-
-
-
-
 
 ### Deployed Contract Demo
 
 [](Evaluation_Evidence/Deployed_contracts.mov)
 
+https://user-images.githubusercontent.com/78903233/201474109-2a8e8d3e-4da6-4aa6-aaf1-cb654db3dbb3.mov
 
-
-
-
+https://user-images.githubusercontent.com/78903233/201439710-b81491b8-a6a1-43f5-9b92-32181e16018c.mov
 
 ## Evaluation Evidence
 
@@ -93,13 +83,7 @@ https://user-images.githubusercontent.com/78903233/201431992-aa9f21e7-1b9c-4ba9-
 ### Functionality Testing Demo
 
 [](Evaluation_Evidence/Demo.mov)
-
-
-
 https://user-images.githubusercontent.com/78903233/201431006-3cdbe7f1-e606-44b4-ad12-d43a7215791e.mov
-
-
-
 
 ## Contributers
 
